@@ -1,3 +1,3 @@
 # aws-backup-scripts
 
- backup scripts for aws
+ for use put the directories you want to backup in the file backupdirs.txt as a return seperated list. It is recommended that you change the relative path to an absolute for your server deployment
